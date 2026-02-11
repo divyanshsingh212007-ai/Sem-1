@@ -1,0 +1,16 @@
+
+p em{
+    color: orange;
+}
+h2+ol{
+    color: purple;
+}
+a:hover {
+    color: red;
+    text-decoration: yellow;
+}
+body ul li {
+    color: brown;
+    background-color: aquamarine;
+    padding: 5px;
+}
